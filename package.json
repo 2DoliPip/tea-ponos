@@ -1,6 +1,6 @@
 {
   "name": "tea-ponos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "try to test tea",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "zktea-test": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "protocol-cryp-tea-test": "1.0.1"
   },
   "author": "",
   "license": "ISC",
